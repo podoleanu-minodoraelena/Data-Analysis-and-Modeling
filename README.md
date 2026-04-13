@@ -7,7 +7,7 @@ Acest repository conține o colecție de proiecte de analiză predictivă și mo
 1. **Electricity Cost Prediction (Regression)**
    - **Obiectiv:** Predicția costului energiei electrice pe baza unor indicatori tehnici.
    - **Tehnici:** Regresie liniară multiplă, analiza corelației și vizualizarea datelor.
-   - **Relevanță:** Analiză de date aplicată în domeniul energetic (OMV Petrom).
+   - **Relevanță:** Analiză de date aplicată în domeniul energetic.
 
 2. **Water Potability Analysis (Ensemble Learning)**
    - **Obiectiv:** Clasificarea calității apei (potabilă/nepotabilă) folosind parametri chimici.
